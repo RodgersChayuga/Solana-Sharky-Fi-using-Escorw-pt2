@@ -4,7 +4,7 @@
 
 This is a learning track at Calyptus.co [Build An NFT Lending & Borrowing Platform Pt. 2](https://calyptus.co/lessons/build-an-nft-borrowing-landing-platform-pt-1/).
 
-![Become a solana developer. https://calyptus.co/lessons/build-an-nft-borrowing-landing-platform-pt-2/](build-an-nft-borrowing-landing-platform-2.avif)
+![Become a solana developer. https://calyptus.co/lessons/build-an-nft-borrowing-landing-platform-pt2/](build-an-nft-borrowing-landing-platform-2.avif)
 
 Based on the [Build An NFT Lending & Borrowing Platform Pt. 2](https://calyptus.co/lessons/build-an-nft-lending-borrowing-platform-pt-2/) module, this walkthrough takes you through the process of creating a platform where users can lend SOL in exchange for NFTs from a specific collection, all facilitated through a secure vault system using [Anchor](https://www.anchor-lang.com/).
 
