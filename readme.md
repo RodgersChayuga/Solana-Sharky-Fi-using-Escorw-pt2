@@ -1,7 +1,5 @@
 # Build An NFT Lending & Borrowing Platform Pt. 2
 
-# Build A Lending & Borrowing Platform
-
 This is a learning track at Calyptus.co [Build An NFT Lending & Borrowing Platform Pt. 2](https://calyptus.co/lessons/build-an-nft-borrowing-landing-platform-pt-2/).
 
 ![Become a solana developer. https://calyptus.co/lessons/build-an-nft-borrowing-landing-platform-pt-2/](build-an-nft-borrowing-landing-platform-pt2.avif)
